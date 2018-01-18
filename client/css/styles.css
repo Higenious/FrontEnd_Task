@@ -1,0 +1,89 @@
+body {
+    min-height:1000px;
+    padding-top: 70px;
+    background-color: white;
+}
+
+.navbar-fixed-top {
+    background: #3986A7;
+    /*height: 80px;
+    padding-left: 20px;*/
+}
+.profile {
+  margin-top: -7px;
+    width: 35px;
+    height: 35px;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: beige;
+}
+
+
+.nav.navbar-nav li a {
+    color: beige;
+}
+
+.button5 {border-radius: 15%;}
+
+.btn-round-lg{
+    border-radius: 22.5px;
+}
+.btn-round{
+    border-radius: 17px;
+}
+.btn-round-sm{
+    border-radius: 15px;
+}
+.btn-round-xs{
+    border-radius: 11px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* Hover effect*/
+.thumbnail
+{
+    border-top-color: #F5EB16;
+    border-top-width: 15px;
+
+}
+
+.thumbnail2
+{
+    border-top-color: #F516BF;
+    border-top-width: 15px;
+
+}
+
+.thumbnail3
+{
+    border-top-color: #167BF5;
+    border-top-width: 15px;
+
+}
+
+.thumbnail4
+{
+    border-top-color: #4CF516;
+    border-top-width: 15px;
+
+}
+
+h2{
+    color: #167BF5;
+}
+
+.thumbnail:hover {
+    background-color:blanchedalmond;
+    opacity: 0.5;
+}
+h3{
+   color: teal 
+}
+
+.form-horizontal{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
